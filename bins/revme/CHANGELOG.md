@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [13.0.1](https://github.com/Newt6611/revm/compare/revme-v13.0.0...revme-v13.0.1) - 2026-03-05
+
+### Other
+
+- updated the following local packages: revm
+
 ## [13.0.0](https://github.com/bluealloy/revm/compare/revme-v12.0.0...revme-v13.0.0) - 2026-03-04
 
 ### Other
